@@ -1,8 +1,5 @@
 # Trabalho 2 - Redes de Computadores I - Algoritmo Árvore B+
 
-# PRESIDENTE PRUDENTE/SP  
-2024
-
 ## Pré-requisitos
 
 Antes de executar o código, certifique-se de que você tenha os seguintes pacotes Python instalados:
